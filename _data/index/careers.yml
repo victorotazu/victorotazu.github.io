@@ -1,29 +1,66 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Valia
+    i18n: valia
   desc:
-    detail: I worked at Company A ...
+    detail: > 
+              Design and implement the systems that collect raw housing market data and that convert them into information accessible
+              to ours users  through a web and mobile applications.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: April 2018 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Engineer & Co-founder
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: LenddoEFL
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: >
+              Held different roles, from software developer to manager. Led multidisciplinary teams such as Data, Technology and Client Platform Engineering teams.
+              Also led critical software products for internal and external clients around the world. Helped to design and build the systems and processes that
+              allowed the company to scale and go from processing 100 loan applications in a good day to more than 1000 in a regular day.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: July 2011 - January 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Product Owner, Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Crediscotia Financiera
+    i18n: company_b
+  desc:
+    detail: >
+              Designed and implemented data solutions to perform national marketing campaigns, data visualizations for the C-suite of the company, 
+              and ad-hoc inquiries from internal and external users.
+    i18n: company_b_desc
+  date:
+    detail: March 2010 - June 2011
+    i18n: company_b_date
+  job:
+    detail: Business Intelligence Analyst
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Medisys International
+    i18n: company_b
+  desc:
+    detail: >
+              Designed and implemented a mobile application for Eli Lilly – Venezuela to better organize the visits of its sales representatives 
+              to drugstores. Trained Eli Lilly sales representatives and performed field testing of the mobile application.
+    i18n: company_b_desc
+  date:
+    detail: February 2009 - February 2010
+    i18n: company_b_date
+  job:
+    detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
